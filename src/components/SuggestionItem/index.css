@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.arrow {
+  width: 25%;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arrow-button {
+  border: 0px;
+  background-color: #ffffff;
+  width: 30%;
+}
